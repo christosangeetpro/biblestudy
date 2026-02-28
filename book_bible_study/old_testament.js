@@ -2,7 +2,7 @@
   {
     "old_testament": "Genesis",
     "bn_name": "আদি পুস্তক",
-    "three_seconds_summary": "বিস্তারিত",
+    "three_seconds_summary": "আদিপুস্তক দ্বারা মোশি ইস্রায়েল জাতিকে বাইবেলীয় একটি দৃষ্টিভঙ্গী দেখান, অর্থাৎ ঈশ্বরের চরিত্রের একটি শক্তিশালী প্রকাশ এবং পৃথিবী, মানুষ, মন্দতা, জাতিগুলো ও ইস্রায়েল জাতির উৎসের বর্ণনা।",
     "three_minutes_summary": "বিস্তারিত",
     "thirty_minutes_summary": "বিস্তারিত",
     "detailed_study": "বিস্তারিত"
@@ -311,4 +311,5 @@
     "thirty_minutes_summary": "বিস্তারিত",
     "detailed_study": "বিস্তারিত"
   }
+
 ]
